@@ -18,7 +18,7 @@ _Figure: Block diagram of the reflow oven controller hardware._
 
 # Software Block Diagram
 ![Reflow Controller Software Diagram](/assets/images/reflow_software_diagram.png){: .w-75 .shadow .rounded-10 }
-_Figure: Block diagram of the reflow oven controller hardware._
+_Figure: Block diagram of the reflow oven controller firmware._
 
 
 
