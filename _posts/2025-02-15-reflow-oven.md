@@ -12,7 +12,7 @@ image:
 
 As part of coursework, we made a reflow oven controller that controls a 1500W toaster oven to follow a reflow temperature profile through a solid state relay.
 - Firmware written in 8051 Assembly
-- temperature data displayed using a Python program and serial port.
+- temperature data displayed using a Python program and serial port
 - I2C LCD panel and buttons for user interface
 - Thermocouple with op amp used to make precise temperature measurements (+/-3C)
 
