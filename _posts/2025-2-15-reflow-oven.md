@@ -1,6 +1,6 @@
 ---
 title: N76E003 Reflow Oven Controller
-date: date: 2025-2-15 00:00:00 +0800
+date: 2025-2-15 00:00:00 +0800
 categories: [hardware, software]
 tags: [assembly, I2C, circuit] 
 ---
