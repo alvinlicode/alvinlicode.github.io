@@ -10,13 +10,17 @@ image:
   class: shadow
 ---
 
-As part of my coursework, we created a reflow oven controller to control a toaster oven to follow a reflow temperature curve for soldering PCBs. 
+As part of my coursework, we created a reflow oven controller for a toaster oven to follow a reflow soldering temperature curve. 
+- Firmware written in 8051 Assembly
+- temperature data displayed using a Python program and serial port.
+- I2C LCD panel and buttons for user interface
+- Thermocouple with op amp used to make precise temperature measurements (+/-3C)
 
-# Hardware Block Diagram
+### Hardware Block Diagram
 ![Reflow Oven Hardware Diagram](/assets/images/reflow_hardware_block_diagram.png){: .w-75 .mx-auto .d-block }
 _Figure: Block diagram of the reflow oven controller hardware._
 
-# Software Block Diagram
+### Software Block Diagram
 ![Reflow Controller Software Diagram](/assets/images/reflow_software_diagram.png){: .w-75 .shadow .rounded-10 }
 _Figure: Block diagram of the reflow oven controller firmware._
 
