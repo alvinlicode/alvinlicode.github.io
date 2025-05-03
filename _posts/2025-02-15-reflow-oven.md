@@ -2,7 +2,7 @@
 title: N76E003 Reflow Oven Controller
 date: 2025-02-15 00:00:00 +0800
 categories: [hardware, software]
-tags: [assembly, I2C, circuit] 
+tags: [Assembly, I2C, Circuit, Python] 
 pin: true
 image:
   path: /assets/images/reflow_controller.jpg
