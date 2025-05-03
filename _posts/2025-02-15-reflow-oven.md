@@ -10,7 +10,7 @@ image:
   class: shadow
 ---
 
-As part of my coursework, we created a reflow oven controller for a toaster oven to follow a reflow soldering temperature curve. 
+As part of coursework, we made a reflow oven controller that controls a 1500W toaster oven to follow a reflow temperature profile through a solid state relay.
 - Firmware written in 8051 Assembly
 - temperature data displayed using a Python program and serial port.
 - I2C LCD panel and buttons for user interface
