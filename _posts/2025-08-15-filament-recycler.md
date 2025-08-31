@@ -33,6 +33,13 @@ through a USB-C port or serial wire debug pins.
   
 
 ### Stepper Driver
-![Software Block Diagram](/assets/images/stepper_driver){: .w-75 .shadow .rounded-10 }
+![Stepper Schematic](/assets/images/stepper_driver){: .w-75 .shadow .rounded-10 }
 
 - Two TMC2209 steppermotor drivers powered by 24V input and communicates via UART to the STM32
+
+### Cooling Fans
+![cooling fans](/assets/images/Recycler_fans){: .w-75 .shadow .rounded-10 }
+
+- Four 5V fans that are controlled with a PWM signal from the MCU. The 3.3V STM32F4 interfaces with the fan MOSFETS via a non-inverting buffer, which acts a relay.
+- Each Fan has reverse polarity protection in the form of a diode
+
