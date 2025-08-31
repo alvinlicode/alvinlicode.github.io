@@ -1,6 +1,6 @@
 ---
-title: Coin Picker Robot
-date: 2025-04-26 00:00:00 +0800
+title: Filament Recycler PCB
+date: 2025-08-15 00:00:00 +0800
 categories: [hardware, software]
 tags: [C, I2C, SPI, Microcontroller, Altium, Circuit] 
 pin: true
