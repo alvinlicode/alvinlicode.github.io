@@ -15,9 +15,9 @@ As part of UBC Rapid, I designed a Filament Recycler that controls the following
 - Buttons and Rotary Encoder
 - Two TMC2209 Stepper Drivers
 - Four MOSFET Based PWM 5V Fan Controllers
-- EEPROM for extra memoryto accommodate the LVGL graphics library
-- One I2C Sensor, for hall effect sensor
-- One SPI Sensor, because there were extra pins
+- EEPROM for extra memory to accommodate the graphics library
+- One I2C sensor I/O, for hall effect filament diameter measuring sensor
+- One SPI sensor I/O, because there were extra pins
 - Logic level converter for controlling an external motor driver, for the large shredder motor
 
 In order to power all of circuitry on this PCB, I implemented a 24V to 5V Buck Converter and a 5V to 3.3V LDO, which can provide power at 24V, 5V, and 3.3V. This PCB can also be programmed and powered
