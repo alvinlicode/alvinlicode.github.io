@@ -10,14 +10,12 @@ image:
   class: shadow
 ---
 
-### PCB Top View
-![PCB](/assets/images/Recycler_PCB){: .w-75 .mx-auto .d-block }
-
 As part of UBC Rapid, I designed a Filament Recycler that controls the following peripherals:
-- ILI9431 SPI Display, Buttons and Rotary Encoder
+- ILI9431 SPI Display, which is compatible with the LVGL graphics library
+- Buttons and Rotary Encoder
 - Two TMC2209 Stepper Drivers
 - Four MOSFET Based PWM 5V Fan Controllers
-- EEPROM
+- EEPROM for extra memoryto accommodate the LVGL graphics library
 - One I2C Sensor, for hall effect sensor
 - One SPI Sensor, because there were extra pins
 - Logic level converter for controlling an external motor driver, for the large shredder motor
