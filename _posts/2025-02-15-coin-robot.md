@@ -16,7 +16,7 @@ This robot includes:
 - Firmware written in C
 - Two JDY-40 wireless radios for wireless remote control. Each radio sends or recieves basic letters, which then represents a specific instruction dictated by the code.
 - Two H-bridges, enabling directional control for two simple DC motors
-- A colpitts oscillator that detects magnetic interference. The frequency emitted by the oscillator changes in response to magnetic interference, which allows the robot to detect metal objects such as coins.
+- A colpitts oscillator for coin detection. The frequency emitted by the oscillator changes in response to magnetic interference, which allows the robot to detect metal objects such as coins.
 - A double jointed servo arm and electromagnet for picking up coins and collecting them in an onboard container.
 - An autonomous mode, which enables the robot to move around, detect and pick up coins without human input.
 - A Manual mode, which allows a human to control the robot through a joystick and buttons. 
