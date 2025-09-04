@@ -5,5 +5,4 @@ order: 4
 text: hello
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I am a 3rd year electrical engineering student at the University of British Columbia who is interested in robotics and embedded systems.
