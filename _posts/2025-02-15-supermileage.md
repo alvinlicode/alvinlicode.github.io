@@ -18,6 +18,8 @@ What I am currently working on:
 - Debugging hardware/software issues.
 
 Links:
-Check out our firmware repository: https://github.com/supermileage/telemetry-firmware
-Check out our team website: https://www.supermileage.ca/
+
+Check out our firmware repository: [Firmware](https://github.com/supermileage/telemetry-firmware)
+
+Check out our team website: [Team Website](https://www.supermileage.ca/)
 
