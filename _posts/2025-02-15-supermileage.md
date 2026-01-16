@@ -24,6 +24,7 @@ Check out our firmware repository: [Firmware](https://github.com/supermileage/te
 Check out our team website: [Team Website](https://www.supermileage.ca/)
 
 # No Polygons
+![No Polygons](assets/images/Telemetry_No_Polygons.png){: .w-75 .mx-auto .d-block }
 
 # Top Signal
 ![Top Signal](assets/images/Telemetry_Upper_Signal.png){: .w-75 .mx-auto .d-block }
