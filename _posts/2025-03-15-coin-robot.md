@@ -1,7 +1,6 @@
 ---
 title: Coin Picker Robot
 date: 2025-04-26 00:00:00 +0800
-categories: [hardware, software]
 tags: [C, I2C, Microcontroller, Circuit] 
 pin: true
 image:
