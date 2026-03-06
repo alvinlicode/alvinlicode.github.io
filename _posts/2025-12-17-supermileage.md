@@ -1,7 +1,6 @@
 ---
 title: UBC Supermileage
 date: 2025-12-17 00:00:00 +0800
-categories: [software, hardware]
 tags: [C++, KiCad, I2C, CAN, Microcontroller] 
 pin: true
 image:
