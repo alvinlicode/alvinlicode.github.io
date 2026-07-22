@@ -63,10 +63,14 @@ Check out our team website: [Team Website](https://www.supermileage.ca/)
 - Multiplexed IMU and GPS on the same bus
 
 # SPI Peripherals
-![I2C Sensors](/assets/images/Telemetry_SPI.png){: .w-75 .mx-auto .d-block }
+![SPI Sensors](/assets/images/Telemetry_SPI.png){: .w-75 .mx-auto .d-block }
+
 
 - SPI connector, CAN controller and thermistors are multiplexed
 - 120 ohm resistor configurable in case the telemetry is at the end of the CAN bus
+
+# Data Pipeline Example for CAN
+![CAN Pipeline](/assets/images/can_pipeline.jpg){: .w-75 .mx-auto .d-block }
 
 
 
