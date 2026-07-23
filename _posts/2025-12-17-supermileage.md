@@ -71,7 +71,7 @@ Check out our team website: [Team Website](https://www.supermileage.ca/)
 
 
 ### Data Pipeline Example for CAN
-![CAN Pipeline](/assets/images/CAN_pipeline (2).jpg){: .w-75 .mx-auto .d-block }
+![CAN Pipeline](/assets/images/CAN_pipeline_(2).jpg){: .w-75 .mx-auto .d-block }
 
 
 
