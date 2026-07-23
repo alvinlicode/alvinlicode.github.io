@@ -70,7 +70,7 @@ Check out our team website: [Team Website](https://www.supermileage.ca/)
 - 120 ohm resistor configurable in case the telemetry is at the end of the CAN bus
 
 
-### Data Pipeline Example for CAN
+### Data Pipeline Example for CAN 
 ![CAN Pipeline](/assets/images/Untitled.jpg){: .w-75 .mx-auto .d-block }
 
 
