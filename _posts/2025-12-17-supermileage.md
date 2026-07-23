@@ -52,10 +52,10 @@ Check out our team website: [Team Website](https://www.supermileage.ca/)
 
 - Parent schematic includes the LTE modem and 12V power input
   
-# Telemetry CAN and RS232
+# Telemetry RS232
 ![CAN and RS323](/assets/images/Telemetry_CAN.png){: .w-75 .mx-auto .d-block }
 
-- MCP 2515 SPI to CAN controller allows the microcontroller to interface with the CAN bus
+- MAX3232 allows the MCU's UART to interface with the computer by conversion to RS232 protocol
 
 # I2C Peripherals
 ![I2C Sensors](/assets/images/Telemetry_I2C.png){: .w-75 .mx-auto .d-block }
